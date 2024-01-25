@@ -3,8 +3,7 @@ A virtual reality app for displaying and interacting with workspace data.
 
 ![alt text](topic.png)
 
-Please download the installation APK file through the following link：
-https://1drv.ms/u/s!AlAOIOBwskGHwUmfohK9czWqqY1o?e=5ZnCz0  
+Please download the installation APK file through the following link：[download](https://example.com/download](https://1drv.ms/u/s!AlAOIOBwskGHwUmfohK9czWqqY1o?e=5ZnCz0 )
 
 Our introduction video:
 https://www.youtube.com/watch?v=3gDpF5CvwYI
